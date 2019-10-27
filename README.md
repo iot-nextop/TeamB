@@ -1,5 +1,5 @@
-#our arduino
-hihi haha
+# nextop ardino
+  hihi 
 
 이 프로젝트는 가스 감지 센서, 불빛 감지 센서를 이용한 아두이노를 통해 여러 방안으로 수정하는 프로젝트입니다.  
 
