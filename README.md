@@ -26,7 +26,7 @@
     불꽃 감지 센서, LED, 부저 등등
     
 # 참고한 문헌들
-   [https://kocoafab.cc/tutorial/view/86] - 불꽃 감지 센서 관련
+   [https://kocoafab.cc/tutorial/view/86] - 불꽃 감지 센서 관련<br/> <br/>
    [https://deneb21.tistory.com/279] - 가스 누출 센서 관련
     
 # License
