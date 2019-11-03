@@ -24,4 +24,5 @@
    
     불꽃 감지 센서, LED, 부저 등등
     
-This project is licensed under the MIT License - see the [TeamB/LICENSE]
+# License
+This project is licensed under the MIT License - see the [TeamB/LICENSE](LICENSE)
