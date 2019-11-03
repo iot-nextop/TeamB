@@ -23,3 +23,5 @@
    ![불꽃감쥐](https://user-images.githubusercontent.com/54493116/68081105-d6210000-fe4b-11e9-8fcf-541de9329e26.jpg) ![LED](https://user-images.githubusercontent.com/54493116/68081153-a4f4ff80-fe4c-11e9-836c-5098f4640650.png) ![부저](https://user-images.githubusercontent.com/54493116/68081159-b0e0c180-fe4c-11e9-81d3-3b4576305276.jpg) 
    
     불꽃 감지 센서, LED, 부저 등등
+    
+This project is licensed under the MIT License - see the [TeamB/LICENSE]
